@@ -1,6 +1,6 @@
 /* 
 Filename:       db.js
-Student’s Name: Jiyuan Huang 
+Author's name:  Jiyuan Huang 
 StudentID:      301083362
 Date:           OCT 26,2020
 Web App name:   COMP229-F2020-301083362
