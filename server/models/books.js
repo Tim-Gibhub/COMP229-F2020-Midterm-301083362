@@ -1,3 +1,11 @@
+/* 
+Filename:       books.js
+Student’s Name: Jiyuan Huang 
+StudentID:      301083362
+Date:           OCT 26,2020
+
+This for DB Schema.
+*/
 let mongoose = require('mongoose');
 
 // create a model class
@@ -9,7 +17,7 @@ let Book = mongoose.Schema({
     Genre: String
 },
 {
-  collection: "books"
+  collection: "booklist"
 });
 
 module.exports = mongoose.model('Book', Book);
